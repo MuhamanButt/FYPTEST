@@ -3,3 +3,19 @@ ye wale folder me smjh tera react project hai
 ab hmne github pr repo bnani h aik
 
 ab is folder me jana hai path se
+
+git init
+git add .
+ git commit -m "first commit"
+  git remote add origin https://github.com/MuhamanButt/FYPTEST.git
+   git push origin master
+
+   ye sb chlani hain commands
+
+
+   ab ye jo changes hain ye bhejne hain hmne udhr
+
+   to hm 3 commands use krenge
+   git add .
+    git commit -m "nye changes"
+    git push origin master
