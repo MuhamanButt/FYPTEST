@@ -19,11 +19,4 @@ git add .
    git add .
     git commit -m "nye changes"
     git push origin master
-
-
-
-    bs yehi hai sb
-    ab suppose k mene kch changes kiye hain to tune wo apne pas lanay hain to tune bs aik command chlani hai
-    git pull origin master
-abhi me github pr kch change krta phr idhr pull lu ga to change idhr b ajaye ga
-wo keh rha apne jo changes hain wo commit kro pehle
+    
