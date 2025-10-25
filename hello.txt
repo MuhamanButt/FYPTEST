@@ -19,7 +19,3 @@ git add .
    git add .
     git commit -m "nye changes"
     git push origin master
-
-
-
-YE MENE GITHUB PR CHANGE KIA H 
