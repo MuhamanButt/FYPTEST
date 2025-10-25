@@ -22,3 +22,13 @@ git add .
 
 
 ye github ka change hai
+
+
+jb apne change dene hain to 3 commands
+   git add .
+    git commit -m "nye changes"
+    git push origin master
+
+
+    agr mere changes apne pas lanay hain to 1 command
+    git pull origin master
