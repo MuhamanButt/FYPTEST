@@ -1,0 +1,5 @@
+ye wale folder me smjh tera react project hai
+
+ab hmne github pr repo bnani h aik
+
+ab is folder me jana hai path se
